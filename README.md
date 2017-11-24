@@ -3,7 +3,7 @@
 ## Módulo 1: Protocolo HTTP
 
 * Funcionamiento general del protocolo HTTP
-* Acciones (GET, POST, PUT y DELETE)
+* Métodos (GET, POST, PUT y DELETE)
 
 ## Módulo 2: WebServices
 
