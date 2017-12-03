@@ -5,7 +5,7 @@
 * Funcionamiento general del protocolo HTTP
 * Métodos (GET, POST, PUT y DELETE)
 
-## Módulo 2: WebServices
+## Módulo 2: Servicios Web
 
 * Definición y características
 * Tipos de Servicios Web
