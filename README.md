@@ -26,3 +26,16 @@
 * Implementación REST server-side
 * Marcos de desarrollo
 * Casos de uso
+
+## Requisitos
+
+### Multiplataforma
+
+* Postman: https://www.getpostman.com/
+* Atom: https://atom.io/
+* VirtualBox: https://www.virtualbox.org/wiki/Downloads
+* Vagrant: https://www.vagrantup.com/
+
+### Microsoft Windows
+
+* Cliente Git: https://git-scm.com/downloads
